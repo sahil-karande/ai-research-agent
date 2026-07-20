@@ -28,3 +28,11 @@ To avoid relying on static, outdated LLM parametric memory, this application use
              │
              ▼
   [ ReportLab PDF Engine ] ──► Generates Downloadable Executive Summary
+
+  ## 3. AI Tools & Frameworks Used
+  LLM Core Engine: Groq API (llama-3.3-70b-versatile)  
+  Search Tool: Tavily Web Search API  
+  UI Framework: Streamlit (Enhanced with Custom Glassmorphism CSS)  
+  PDF Export Engine: ReportLab  
+  Environment Management: python-dotenv  
+  AI Development Support: Claude / Gemini  
